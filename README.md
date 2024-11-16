@@ -43,7 +43,7 @@
 ## Usage
 1. Run the compiled executable.
 2. Select **Start Game** to begin.
-3. Navigate the spaceship using the arrow keys.
+3. Navigate the spaceship using the WASD keys.
 4. Collect healing planets, avoid damaging ones, and try to score as many points as possible.
 5. When health reaches zero, the **Game Over** screen will display.
 
